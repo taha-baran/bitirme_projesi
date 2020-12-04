@@ -14,7 +14,7 @@ oyunla olan bağlantısı kurularak oyunda tanımlanmış olan hareketleri yapma
 
 ### Proje Arka Planı
 Beyin dalgaları kullanılarak oynanan oyun temasında birçok çalışma var. Bunlardan bazıları:
-- World of Warcraft oyununun kontrollerini EEG ve pedallar yardımıyla oynanabilir hale getirilmiş. [Video](https://www.youtube.com/watch?v=jXpjRwPQC5Q)
+- World of Warcraft oyununun kontrolleri EEG ve pedallar yardımıyla oynanabilir hale getirilmiş. [Video](https://www.youtube.com/watch?v=jXpjRwPQC5Q)
 - Counter-Strike benzeri bir oyunu Emotiv Epoc cihazı ile oynanabilir hale getirilmiş. .[Video](https://www.youtube.com/watch?v=TtvDIFY8Bwo)
 - Unity üzerinden geliştirilen basit dinamiklere sahip bir oyunu Emotiv Epoc cihazı ile oynanabilir hale getirilmiş. [Video](https://www.youtube.com/watch?v=5jCBEIx6NSI)
 
