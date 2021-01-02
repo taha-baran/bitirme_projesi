@@ -48,8 +48,7 @@ class Cortex():
         result = self.ws.recv()
         result_dic = json.loads(result)
         self.headset_id = result_dic['result'][0]['id']
-        if self.debug:
-            # print('query headset result', json.dumps(result_dic, indent=4))            
+        if self.debug:        
             print(self.headset_id)
 
     def connect_headset(self):
