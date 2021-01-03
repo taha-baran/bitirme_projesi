@@ -26,6 +26,11 @@ self.ws = websocket.create_connection(url, sslopt={"cert_reqs": ssl.CERT_NONE})
 * HTC Vive Eye Pro
 
 ## İş Dağılımı
+| Kişiler | Saat |
+| -: | :- |
+| İbrahim Şengün | %28 |
+| Mehmet Alan | %27 |
+| Taha Rıdvan Baran | %45 |
 
 ## Kaynaklar
 
