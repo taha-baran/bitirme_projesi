@@ -16,6 +16,15 @@ self.ws = websocket.create_connection(url, sslopt={"cert_reqs": ssl.CERT_NONE})
 
 ## Araçlar
 
+**Uygulamalar**
+* Unity
+* Emotiv Pro
+* EmotivBCI
+
+**Cihazlar**
+* Emotiv Epoc+
+* HTC Vive Eye Pro
+
 ## İş Dağılımı
 
 ## Kaynaklar
