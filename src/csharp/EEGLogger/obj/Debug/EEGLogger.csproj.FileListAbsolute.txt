@@ -1,0 +1,14 @@
+C:\Users\MEHMET\Desktop\cortex-v2-example-master\csharp\EEGLogger\bin\Debug\EEGLogger.exe.config
+C:\Users\MEHMET\Desktop\cortex-v2-example-master\csharp\EEGLogger\bin\Debug\EEGLogger.exe
+C:\Users\MEHMET\Desktop\cortex-v2-example-master\csharp\EEGLogger\bin\Debug\EEGLogger.pdb
+C:\Users\MEHMET\Desktop\cortex-v2-example-master\csharp\EEGLogger\bin\Debug\CortexAccess.dll
+C:\Users\MEHMET\Desktop\cortex-v2-example-master\csharp\EEGLogger\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MEHMET\Desktop\cortex-v2-example-master\csharp\EEGLogger\bin\Debug\WebSocket4Net.dll
+C:\Users\MEHMET\Desktop\cortex-v2-example-master\csharp\EEGLogger\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\MEHMET\Desktop\cortex-v2-example-master\csharp\EEGLogger\bin\Debug\CortexAccess.pdb
+C:\Users\MEHMET\Desktop\cortex-v2-example-master\csharp\EEGLogger\bin\Debug\CortexAccess.dll.config
+C:\Users\MEHMET\Desktop\cortex-v2-example-master\csharp\EEGLogger\obj\Debug\EEGLogger.csprojAssemblyReference.cache
+C:\Users\MEHMET\Desktop\cortex-v2-example-master\csharp\EEGLogger\obj\Debug\EEGLogger.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET\Desktop\cortex-v2-example-master\csharp\EEGLogger\obj\Debug\EEGLogger.csproj.CopyComplete
+C:\Users\MEHMET\Desktop\cortex-v2-example-master\csharp\EEGLogger\obj\Debug\EEGLogger.exe
+C:\Users\MEHMET\Desktop\cortex-v2-example-master\csharp\EEGLogger\obj\Debug\EEGLogger.pdb

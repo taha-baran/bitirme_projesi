@@ -1,0 +1,11 @@
+C:\Users\MEHMET\Desktop\cortex-v2-example-master\csharp\CortexAccess\bin\Debug\CortexAccess.dll.config
+C:\Users\MEHMET\Desktop\cortex-v2-example-master\csharp\CortexAccess\bin\Debug\CortexAccess.dll
+C:\Users\MEHMET\Desktop\cortex-v2-example-master\csharp\CortexAccess\bin\Debug\CortexAccess.pdb
+C:\Users\MEHMET\Desktop\cortex-v2-example-master\csharp\CortexAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MEHMET\Desktop\cortex-v2-example-master\csharp\CortexAccess\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\MEHMET\Desktop\cortex-v2-example-master\csharp\CortexAccess\bin\Debug\WebSocket4Net.dll
+C:\Users\MEHMET\Desktop\cortex-v2-example-master\csharp\CortexAccess\obj\Debug\CortexAccess.csprojAssemblyReference.cache
+C:\Users\MEHMET\Desktop\cortex-v2-example-master\csharp\CortexAccess\obj\Debug\CortexAccess.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET\Desktop\cortex-v2-example-master\csharp\CortexAccess\obj\Debug\CortexAccess.csproj.CopyComplete
+C:\Users\MEHMET\Desktop\cortex-v2-example-master\csharp\CortexAccess\obj\Debug\CortexAccess.dll
+C:\Users\MEHMET\Desktop\cortex-v2-example-master\csharp\CortexAccess\obj\Debug\CortexAccess.pdb
