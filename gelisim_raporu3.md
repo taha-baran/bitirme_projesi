@@ -5,6 +5,21 @@ Emotiv-Unity ile bağlantısını kolaylaştırmak için Python kodları yerine 
 
 ## Zorluklar
 
+**EEG Cihazının Stream Yapması**
+EEG cihazının stream yapması için [^1] reposundaki C# kodlarına alttaki **getSignals** metodunu ekledik.
+
+```csharp
+public void getSignals()
+{
+    // Subscribe com
+    List<string> stream = new List<string>() { "com" };
+    _ctxClient.Subscribe(_cortexToken, _sessionId, stream);
+}
+```
+**Unity İçin Kodların Düzenlenmesi**
+Çalışmaların Unity üzerinde devam edebilmesi için kodların düzenlenmesi gerekiyordu. Bu düzenlemeler devam etmektedir.
+
+
 ## Araçlar
 
 **Uygulamalar**
